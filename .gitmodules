@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Icnneto/furia_tech_back
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Icnneto/furia_tech_front
