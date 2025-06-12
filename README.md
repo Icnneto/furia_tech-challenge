@@ -4,14 +4,6 @@
 
 Este projeto foi desenvolvido como parte do **Tech Challenge promovido pela FURIA**, com o objetivo de explorar dados fornecidos por fãs de eSports para gerar insights por meio de Inteligência Artificial. Através de formulários, coleta de dados via web scraping e processamento com IA, o projeto visa entregar um dashboard dinâmico com análises comportamentais dos usuários.
 
-## 🔗 Links principais
-
-- 📝 **Formulário de entrada:**  
-  [Formulário](https://icnneto.github.io/furia_tech_front/public/pages/index.html)
-
-- 📊 **Dashboard (visualização dos dados):**  
-  [Dashboard](https://icnneto.github.io/furia_tech_front/public/pages/dashboard)
-
 ## Tecnologias Utilizadas
 
 | Camada      | Tecnologias principais                                        |
