@@ -133,7 +133,7 @@ Para clonar e rodar o projeto localmente:
 - Monitoração com `watchMongo.js` para detectar novas inserções.
 
 ### Deploy
-- **Render.com** para hospedagem do backend
+- **Render.com** para hospedagem do backend (⚠️ Atualmente o projeto na render está desativado - rode localmente)
 - Variáveis de ambiente `.env` protegidas (API Key, URI MongoDB, etc.)
 
 
